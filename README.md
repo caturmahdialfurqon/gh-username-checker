@@ -14,9 +14,9 @@ cd gh-username-checker
 ```
 - Install dependencies
 ```bash
-npm install
+bundle install
 ```
 - Run the script
 ```bash
-node gh.js
+ruby gh.rb
 ```
